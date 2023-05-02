@@ -65,3 +65,20 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.rodape {
+    /*position: absolute;*/
+    height: 80px;
+    top: 1071px;
+    background-color: #22D4FD;
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.rodape__h4 {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
