@@ -1,4 +1,3 @@
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,4 +16,3 @@
 ### Elias Nunes
 
 ### Linkedin: https://www.linkedin.com/in/eliasgsn/
-```
